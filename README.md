@@ -132,4 +132,3 @@ The project is split into three detailed walkthrough modules:
 
 - **GitHub:** [rohithgeorge23](https://github.com/rohithgeorge23)
 - **LinkedIn:** https://www.linkedin.com/in/rohithgeorge-bsc?utm_source=share_via&utm_content=profile&utm_medium=member_android
--
