@@ -120,7 +120,6 @@ The project is split into three detailed walkthrough modules:
 
 ## 📚 References & Resources
 
-- [HackTricks - Docker Security & Escapes](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/docker-breakout)
 - [LinPEAS - Linux Privilege Escalation Awesome Script](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
 - [Docker Documentation - Rootless Mode](https://docs.docker.com/engine/security/rootless/)
 - [OWASP - Local File Inclusion (LFI)](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/07-Input_Validation_Testing/11.1-Testing_for_Local_File_Inclusion)
