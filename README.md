@@ -40,14 +40,14 @@ A strategic post-assessment evaluation designed to analyze technical execution, 
 
 | Component | Details |
 | :--- | :--- |
-| **Target Host** | Linux Host (`192.168.29.253`) |
+| **Target Host System** | VNX Host (`192.168.29.253`) |
 | **Attacking Machine** | Kali Linux (`192.168.29.205`) |
-| **Vulnerable Services** | Web App (LFI on `?page=`), SSH (Port 22), Docker Daemon Socket |
-| **Target Account** | Initial: `vnx` | Escalated: `root` |
+| **Target Account / Shell** |  Initial: `vnx` | Escalated: `root` |
+| **Virtualization Framework** | VMare / Oracle VirtualBox Subnet | 
 
 ### Network Layout:
-* **Target Host (VNX):** `192.168.29.253`
-* **Kali Linux (Attacker):** `192.168.29.205`
+* **Target Host IP:** `192.168.29.253`
+* **Attacker Host IP:** `192.168.29.205`
 
 ---
 
