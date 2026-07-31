@@ -27,7 +27,7 @@ A strategic post-assessment evaluation designed to analyze technical execution, 
 | :--- | :--- |
 | **Target Host System** | VNX Host (`192.168.29.253`) |
 | **Attacking Machine** | Kali Linux (`192.168.29.205`) |
-| **Target Account / Shell** |  Initial: `vnx` | Escalated: `root` |
+| **Target Account / Shell** | Initial: `vnx` \| Escalated: `root` |
 | **Virtualization Framework** | VMare / Oracle VirtualBox Subnet | 
 
 ### Network Layout:
