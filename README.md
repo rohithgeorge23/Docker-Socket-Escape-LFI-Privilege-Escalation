@@ -6,21 +6,6 @@
 
 ---
 
-## 📜 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Environment Architecture](#-environment-architecture)
-- [Prerequisites](#-prerequisites)
-- [Technologies & Tools](#-technologies--tools)
-- [Step-by-Step Implementation Guide](#-step-by-step-implementation-guide)
-- [Key Findings & Results](#-key-findings--results)
-- [Pentester Perspective](#-pentester-perspective)
-- [Security Monitoring & Mitigation](#-security-monitoring--mitigation)
-- [Lessons Learned & Challenges](#-lessons-learned--challenges)
-- [References & Resources](#-references--resources)
-- [Author & Contact](#-author--contact)
-
----
 
 ## 🚀 Project Overview
 
